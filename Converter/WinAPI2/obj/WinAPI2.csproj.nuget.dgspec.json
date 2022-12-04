@@ -1,0 +1,243 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Dr.Drobitel\\Source\\Repos\\ConverterApp\\Converter\\WinAPI2\\WinAPI2.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Dr.Drobitel\\Source\\Repos\\ConverterApp\\Converter\\ConverterLib\\ConverterLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dr.Drobitel\\Source\\Repos\\ConverterApp\\Converter\\ConverterLib\\ConverterLib.csproj",
+        "projectName": "ConverterLib",
+        "projectPath": "C:\\Users\\Dr.Drobitel\\Source\\Repos\\ConverterApp\\Converter\\ConverterLib\\ConverterLib.csproj",
+        "packagesPath": "C:\\Users\\Dr.Drobitel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dr.Drobitel\\source\\repos\\ConverterApp\\Converter\\ConverterLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dr.Drobitel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Dr.Drobitel\\Source\\Repos\\ConverterApp\\Converter\\ValuesLib\\ValuesLib.csproj": {
+                "projectPath": "C:\\Users\\Dr.Drobitel\\Source\\Repos\\ConverterApp\\Converter\\ValuesLib\\ValuesLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Dr.Drobitel\\Source\\Repos\\ConverterApp\\Converter\\IValueLib\\IValueLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dr.Drobitel\\Source\\Repos\\ConverterApp\\Converter\\IValueLib\\IValueLib.csproj",
+        "projectName": "IValueLib",
+        "projectPath": "C:\\Users\\Dr.Drobitel\\Source\\Repos\\ConverterApp\\Converter\\IValueLib\\IValueLib.csproj",
+        "packagesPath": "C:\\Users\\Dr.Drobitel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dr.Drobitel\\source\\repos\\ConverterApp\\Converter\\IValueLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dr.Drobitel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Dr.Drobitel\\Source\\Repos\\ConverterApp\\Converter\\ValuesLib\\ValuesLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dr.Drobitel\\Source\\Repos\\ConverterApp\\Converter\\ValuesLib\\ValuesLib.csproj",
+        "projectName": "ValuesLib",
+        "projectPath": "C:\\Users\\Dr.Drobitel\\Source\\Repos\\ConverterApp\\Converter\\ValuesLib\\ValuesLib.csproj",
+        "packagesPath": "C:\\Users\\Dr.Drobitel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dr.Drobitel\\source\\repos\\ConverterApp\\Converter\\ValuesLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dr.Drobitel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Dr.Drobitel\\Source\\Repos\\ConverterApp\\Converter\\IValueLib\\IValueLib.csproj": {
+                "projectPath": "C:\\Users\\Dr.Drobitel\\Source\\Repos\\ConverterApp\\Converter\\IValueLib\\IValueLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Dr.Drobitel\\Source\\Repos\\ConverterApp\\Converter\\WinAPI2\\WinAPI2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dr.Drobitel\\Source\\Repos\\ConverterApp\\Converter\\WinAPI2\\WinAPI2.csproj",
+        "projectName": "WinAPI2",
+        "projectPath": "C:\\Users\\Dr.Drobitel\\Source\\Repos\\ConverterApp\\Converter\\WinAPI2\\WinAPI2.csproj",
+        "packagesPath": "C:\\Users\\Dr.Drobitel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dr.Drobitel\\source\\repos\\ConverterApp\\Converter\\WinAPI2\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dr.Drobitel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\Dr.Drobitel\\Source\\Repos\\ConverterApp\\Converter\\ConverterLib\\ConverterLib.csproj": {
+                "projectPath": "C:\\Users\\Dr.Drobitel\\Source\\Repos\\ConverterApp\\Converter\\ConverterLib\\ConverterLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
